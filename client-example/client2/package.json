@@ -1,0 +1,11 @@
+{
+  "name": "client2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gnokoheat",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^4.1.0",
+    "request": "^2.88.2"
+  }
+}
